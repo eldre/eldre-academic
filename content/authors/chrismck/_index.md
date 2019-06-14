@@ -1,5 +1,5 @@
 ---
-name: Christopher W McKindesy
+name: Christopher W McKindsey
 
 # Username (this should match the folder name)
 authors: chrismck

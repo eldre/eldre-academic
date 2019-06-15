@@ -4,7 +4,7 @@ event: 1st International Congress on Industrial Harbour Scientific Research
 event_url: https://www.cirsip.ca
 location: Sept-Îles, Canada
 summary: ""
-abstract: "Presentation of the results obtained for chapter 1 of my PhD, which have been presented in the book 'Observatoire de la Baie de Sept-Îles'. (presentation in French)"
+abstract: "Presentation of the results obtained for chapter 1 of my PhD, which have been presented in the book 'Observatoire de la Baie de Sept-Îles'. I was invited to give this talk by the organizers. (presentation in French)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

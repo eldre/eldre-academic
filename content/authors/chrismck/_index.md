@@ -16,7 +16,7 @@ organizations:
   url: "https://www.bio.ulaval.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher at Maurice Lamontagne Institute of Fisheries and Oceans Canada (Mont-Joli, QC), doing research in Benthic and Coastal Ecology.
+bio: Senior Researcher in Oceanography
 
 interests: []
 
@@ -43,3 +43,5 @@ email: "chris.mckindsey@dfo-mpo.gc.ca"
 # - Researchers
 # - Visitors
 ---
+
+Christopher McKindsey is a researcher at Maurice Lamontagne Institute of Fisheries and Oceans Canada (Mont-Joli, QC), specialized in Benthic and Coastal Ecology.

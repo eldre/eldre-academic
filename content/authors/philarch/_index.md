@@ -16,7 +16,7 @@ organizations:
   url: "https://www.bio.ulaval.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor in the Department of Biology of Université Laval (Québec, QC), doing research in Marine Biology and Ecology.
+bio: Professor and Senior Researcher in Oceanography
 
 interests: []
 
@@ -43,3 +43,5 @@ email: "philippe.archambault@bio.ulaval.ca"
 # - Researchers
 # - Visitors
 ---
+
+Philippe Archambault is a researcher at the Department of Biology of Université Laval (Québec, QC), specialized in Marine Biology and Ecology.

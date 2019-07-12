@@ -74,6 +74,6 @@ email: "elliot.dreujou@uqar.ca"
 # - Visitors
 ---
 
-I am a junior researcher in Oceanography. My main scientific interest is the study of marine ecosystems, particularly benthic ecosystems (coastal and deep seafloor), and how mankind interact with them.
+I am a junior researcher in Oceanography. My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.
 
-I am most interested in marine infauna, but also micro- and macroalgae. At the moment, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval in Québec (Canada).
+I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval in Québec (Canada).

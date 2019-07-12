@@ -18,3 +18,5 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
+
+Please use the contact form below if you want to receive a printed (more detailled) version of my CV, or for any questions!

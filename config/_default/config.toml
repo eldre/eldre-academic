@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Research profile of Elliot Dreujou"
+title = "Academic CV of Elliot Dreujou"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -26,7 +26,7 @@ disqusShortname = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = true

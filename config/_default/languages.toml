@@ -4,17 +4,29 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  languageCode = "en-GB"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[fr]
-#  languageCode = "fr-FR"
-#  contentDir = "content/fr"
-#  title = "Profil de Elliot Dreujou"
-#  [fr.params]
-#    description = "Site description in French..."
-#  [[fr.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[fr]
+ languageCode = "fr-FR"
+ contentDir = "content/fr"
+ title = "CV académique de Elliot Dreujou"
+
+ [fr.params]
+   description = ""
+
+[[fr.main]]
+  name = "Publications"
+  url = "publication/"
+  weight = 40
+
+[[fr.main]]
+  name = "Présentations & Affiches"
+  url = "talk/"
+  weight = 50
+
+[[fr.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60

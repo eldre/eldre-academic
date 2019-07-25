@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
-title = "Workshops and formations"
+title = "Workshops and training"
 subtitle = ""
 
 # Date format

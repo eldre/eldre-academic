@@ -1,10 +1,10 @@
 ---
-title: Chapitre 4 - Qualité des sédiments
+title: Chapitre 5 - Caractérisation de la faune benthique
 doi: ""
 publication: "Observatoire Environnemental de la Baie de Sept-Îles"
 publication_short: ""
 publication_types: ["6"]
-summary: "This chapter presents results obtained for the environnemental monitoring program of the Baie des Sept-Îlesn lead by INREST."
+summary: "Ce chapitre présente les résultats obtenus tout au long du chapitre 1 de mon Doctorat, qui ont été compilés avec ceux d'autres projets à Sept-Îles, pilotés par l'INREST."
 abstract: ""
 
 date: "2018-12-01"
@@ -17,8 +17,8 @@ publishDate: ""
 #   focal_point: ""
 #   preview_only: false
 
-authors: [Richard St-Louis, Jean-Carlos Montero-Serrano, philarch, eldre, Geneviève Faille, Julie Carrière]
-tags: [Sept-Îles, Anthropogenic drivers, Characterization]
+authors: [eldre, Laurence Paquette, Cindy Grant, philarch, Julie Carrière]
+tags: [Sept-Îles, Benthos, Pressions anthropiques, Caractérisation]
 
 # Is this a featured article? (true/false)
 featured: false
@@ -44,6 +44,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Doctorat]
 
 ---

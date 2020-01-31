@@ -11,10 +11,15 @@
 [fr]
  languageCode = "fr-FR"
  contentDir = "content/fr"
- title = "CV académique de Elliot Dreujou"
+ title = "CV en ligne"
 
  [fr.params]
    description = ""
+
+# [[fr.main]]
+#   name = "Posts"
+#   url = "post/"
+#   weight = 20
 
 [[fr.main]]
   name = "Publications"

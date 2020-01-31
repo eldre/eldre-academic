@@ -25,7 +25,7 @@ featured: false
 
 url_code: ""
 url_dataset: ""
-url_pdf: "http://www.inrest.ca/rapport_global_volume_1B.pdf"
+url_pdf: "files/Book_1_BSI.pdf"
 url_poster: ""
 url_project: "http://www.inrest.ca/environnement/projets?real=1"
 url_slides: ""

@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 55  # Order that this section will appear.
+weight = 75  # Order that this section will appear.
 
 title = "Ateliers et formations"
 subtitle = ""
@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "SMAART-Sentinelle Nord"
+  organization_url = "https://sentinellenord.ulaval.ca"
+  title = "Acquisition et traitement de données: du capteur à l'information"
+  url = "https://sentinellenord.ulaval.ca/fr/smaart2020"
+  certificate_url = ""
+  date_start = "2020-02-21"
+  date_end = "2020-02-23"
+  description = ""
 
 [[item]]
   organization = "Canadian Healthy Oceans Network"

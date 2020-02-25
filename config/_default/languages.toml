@@ -11,15 +11,25 @@
 [fr]
  languageCode = "fr-FR"
  contentDir = "content/fr"
- title = "CV en ligne"
+ title = "Curriculum Vitae"
 
  [fr.params]
    description = ""
 
-# [[fr.main]]
+# [[main]]
+#   name = "Accueil"
+#   url = "#about"
+#   weight = 10
+
+# [[main]]
 #   name = "Posts"
 #   url = "post/"
 #   weight = 20
+
+# [[main]]
+#   name = "Projets"
+#   url = "project/"
+#   weight = 30
 
 [[fr.main]]
   name = "Publications"
@@ -31,7 +41,14 @@
   url = "talk/"
   weight = 50
 
-[[fr.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+# [[fr.main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/CV.pdf"
+#    weight = 70

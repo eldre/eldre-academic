@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.quebec-ocean.ulaval.ca/en/index.php"
   location = "Québec (Canada)"
   date_start = "2018-11-01"
-  date_end = ""
+  date_end = "2019-11-13"
   description = ""
 
 [[experience]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = "https://chone2.ca"
   location = "Rimouski (Canada)"
   date_start = "2015-10-01"
-  date_end = ""
+  date_end = "2020-09-30"
   description = ""
 
 +++

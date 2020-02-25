@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Conference Talks and Posters
+title: Présentations et Affiches
 view: 2
 ---

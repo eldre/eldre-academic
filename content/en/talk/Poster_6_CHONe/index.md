@@ -4,7 +4,7 @@ event: Canadian Healthy Oceans Network Meeting
 event_url: http://chone2.ca
 location: Ottawa, Canada
 summary: ""
-abstract: "This poster compiles works done during chapters 2 and 3 of my PhD. (Best Poster Award)"
+abstract: "This poster compiles works done during chapters 2 and 3 of my PhD. [Best Poster Award]"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

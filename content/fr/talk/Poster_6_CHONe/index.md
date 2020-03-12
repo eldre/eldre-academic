@@ -4,7 +4,7 @@ event: Réunion du Canadian Healthy Oceans Network
 event_url: http://chone2.ca
 location: Ottawa, Canada
 summary: ""
-abstract: "Ce poster compile des résultats obtenus lors des chapitres 2 et 3 de mon projet de Doctorat. (Prix de la meilleure affiche)"
+abstract: "Ce poster compile des résultats obtenus lors des chapitres 2 et 3 de mon projet de Doctorat. [Prix de la meilleure affiche]"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

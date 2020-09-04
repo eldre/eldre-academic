@@ -28,8 +28,8 @@ slides: ""
 Ce projet de Doctorat est divisé en trois chapitres :
 
 1. charactériser les communautés endofauniques et les paramètres du sédiment des écosystèmes benthiques autour de Sept-Îles (Canada)
-2. évaluer quelles sont les influences individuelles et cumulées des activités humaines sur ces écosystèmes
-3. développer des indicateurs écologiques pour déterminer le statut environnemental en fonction des impacts cumulés
+2. tester des indicateurs écologiques pour déterminer le statut environnemental en fonction des impacts cumulés
+3. évaluer quelle est l'influence des activités humaines sur ces écosystèmes
 
 Nous avons choisi la région de Sept-Îles comme cas d'étude, où de nombreuses activités humaines sont présentes selon différentes intensités (par ex : transport maritime international, pêcheries, eaux usées d'origines municipales ou industrielles).
 

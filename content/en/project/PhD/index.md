@@ -28,8 +28,8 @@ slides: ""
 This PhD project is centered on three chapters:
 
 1. characterize infaunal communities and sediment parameters in benthic ecosystems around Sept-Îles (Canada)
-2. evaluate which are the individual and cumulative impacts of human activities on this ecosystems
-3. develop ecological indicators to assess the Environmental Status in regard to cumulative impacts
+2. test ecological indicators to assess the Environmental Status in regard to cumulative impacts
+3. evaluate the influence of human activities on these ecosystems
 
 We selected the region of Sept-Îles in Québec, where numerous human activities vary in local intensity (*e.g.* international shipping, fisheries, city and industrial waste waters).
 

@@ -1,11 +1,11 @@
 ---
-title: "Relier les activités humaines et les communautés benthiques en zone industrielle-portuaire : quel est l’état des écosystèmes ?"
+title: "From benthic communities to multiple drivers – An integrated multi-approach study of the Baie des Sept Îles"
 event: Réunion Scientifique Annuelle de Québec-Océan
 event_url: http://www.quebec-ocean.ulaval.ca/en
 location: Québec, Canada
-summary: ""
+summary: "This poster compiles works done by different students in the laboratory. [Best Poster Award]"
 abstract: "The Baie des Sept Îles, part of the provincial program “Plan Nord”, hosts one of the largest deep water ports in North America. Many human activities (e.g. fisheries, ore transformation) occur in the bay, which can affect natural ecosystems and potentially modify services they provide. As coastal ecosystems rank among the most vulnerable ecosystems, benthic communities are an ideal marker of ecosystem status.
-Here, we aim at integrating information on both benthic communities and potential drivers of impacts to monitor the ecosystem status and to identify management actions. We present the results of a multi-approach study that a) characterized different ecological components in the bay, b) assessed the overall environmental status and c) detected effects of multiple drivers on benthic species. With this study, we provide an integrative framework to monitor the status of coastal benthic ecosystems and pave the way to inform managers on actionable policies in industrial harbour areas. [Best Poster Award]"
+Here, we aim at integrating information on both benthic communities and potential drivers of impacts to monitor the ecosystem status and to identify management actions. We present the results of a multi-approach study that a) characterized different ecological components in the bay, b) assessed the overall environmental status and c) detected effects of multiple drivers on benthic species. With this study, we provide an integrative framework to monitor the status of coastal benthic ecosystems and pave the way to inform managers on actionable policies in industrial harbour areas."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -17,7 +17,7 @@ all_day: true
 publishDate: ""
 
 authors: [eldre, Charlotte Carrier-Belleau, Filippo Ferrario, philarch]
-tags: [Sept-Îles, Benthos, Caractérisation, Pressions anthropiques, Prédiction, Indicateurs]
+tags: [Sept-Îles, Benthos, Characterization, Anthropogenic drivers, Prediction, Indicators, Mesocosms]
 
 # Is this a featured talk? (true/false)
 featured: false

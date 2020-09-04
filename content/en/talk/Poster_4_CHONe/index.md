@@ -3,8 +3,8 @@ title: "Individual and cumulative impacts of anthropogenic stressors on coastal 
 event: Canadian Healthy Oceans Network Meeting
 event_url: http://chone2.ca
 location: Gatineau, Canada
-summary: ""
-abstract: "Poster presented during the 2nd general assembly of researchers from Canadian Healthy Oceans Network (CHONe II). This poster presents the main objectives of my PhD project."
+summary: "Poster presented during the 2nd general assembly of researchers from Canadian Healthy Oceans Network (CHONe II). This poster presents the main objectives of my PhD thesis."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

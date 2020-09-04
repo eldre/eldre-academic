@@ -3,8 +3,8 @@ title: "État des écosystèmes benthiques dans la baie de Sept-Îles"
 event: 1er Congrès International sur la Recherche Scientifique Industrielle-Portuaire
 event_url: https://www.cirsip.ca
 location: Sept-Îles, Canada
-summary: ""
-abstract: "Présentation des résultats obtenus lors du chapitre 1 de mon projet de Doctorat, qui ont été présentés dans le livre 'Observatoire de la Baie de Sept-Îles'. J'ai été invité à présenter cette conférence par les organisateurs"
+summary: "Présentation des résultats obtenus lors du chapitre 1 de mon projet de Doctorat, qui ont été présentés dans le livre 'Observatoire de la Baie de Sept-Îles'. J'ai été invité à présenter cette conférence par les organisateurs."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

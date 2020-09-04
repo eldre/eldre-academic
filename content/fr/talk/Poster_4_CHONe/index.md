@@ -3,8 +3,8 @@ title: "Individual and cumulative impacts of anthropogenic stressors on coastal 
 event: Réunion du Canadian Healthy Oceans Network
 event_url: http://chone2.ca
 location: Gatineau, Canada
-summary: ""
-abstract: "Ce poster présente les principaux objectifs de mon projet de Doctorat."
+summary: "Ce poster présente les principaux objectifs de ma thèse de Doctorat."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

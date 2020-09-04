@@ -3,8 +3,8 @@ title: "Linking anthropogenic activities and benthic communities in industrial a
 event: Canadian Healthy Oceans Network Meeting
 event_url: http://chone2.ca
 location: Ottawa, Canada
-summary: ""
-abstract: "This poster compiles works done during chapters 2 and 3 of my PhD. [Best Poster Award]"
+summary: "This poster compiles works done during chapters 2 and 3 of my PhD thesis. [Best Poster Award]"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

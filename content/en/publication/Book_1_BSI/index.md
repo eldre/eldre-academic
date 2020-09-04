@@ -4,7 +4,7 @@ doi: ""
 publication: "Observatoire Environnemental de la Baie de Sept-Îles"
 publication_short: ""
 publication_types: ["6"]
-summary: "This chapter presents results obtained for the environnemental monitoring program of the Baie des Sept-Îlesn lead by INREST."
+summary: "This chapter presents results obtained for the environnemental monitoring program of the Baie des Sept-Îles, lead by INREST."
 abstract: ""
 
 date: "2018-12-01"

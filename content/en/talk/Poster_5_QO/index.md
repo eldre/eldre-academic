@@ -3,8 +3,8 @@ title: "Relier les activités humaines et les communautés benthiques en zone in
 event: Québec-Océan Scientific Meeting
 event_url: http://www.quebec-ocean.ulaval.ca/en
 location: Rivière-du-Loup, Canada
-summary: ""
-abstract: "This poster compiles works done during chapters 2 and 3 of my PhD. (poster in French)"
+summary: "This poster compiles works done during chapters 2 and 3 of my PhD thesis. (poster in French)"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

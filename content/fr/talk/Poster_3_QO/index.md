@@ -3,8 +3,8 @@ title: "Étude des impacts individuels et cumulés de stresseurs anthropiques su
 event: Réunion Scientifique Annuelle de Québec-Océan
 event_url: http://www.quebec-ocean.ulaval.ca/fr
 location: Québec, Canada
-summary: ""
-abstract: "Ce poster présente les principaux objectifs de mon projet de Doctorat."
+summary: "Ce poster présente les principaux objectifs de ma thèse de Doctorat."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

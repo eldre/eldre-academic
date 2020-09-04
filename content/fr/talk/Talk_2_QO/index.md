@@ -3,8 +3,8 @@ title: "Benthic communities and human activities: a peaceful cohabitation?"
 event: Réunion Scientifique Annuelle de Québec-Océan
 event_url: http://www.quebec-ocean.ulaval.ca/fr
 location: Rivière-du-Loup, Canada
-summary: ""
-abstract: "Présentation des résultats obtenus lors de la campagne 2017 à Sept-Îles."
+summary: "Présentation des résultats obtenus lors de la campagne 2017 à Sept-Îles."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

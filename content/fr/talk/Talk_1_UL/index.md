@@ -3,8 +3,8 @@ title: "Caractérisation des écosystèmes intertidaux autour de Sept-Îles"
 event: Congrès du Département de Biologie, Université Laval
 event_url: https://www.bio.ulaval.ca
 location: Québec, Canada
-summary: ""
-abstract: "Présentation de resultats obtenus lors de l'analyse des écosystèmes intertidaux pendant la campagne 2016 à Sept-Îles."
+summary: "Présentation de resultats obtenus lors de l'analyse des écosystèmes intertidaux pendant la campagne 2016 à Sept-Îles."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

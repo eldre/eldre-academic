@@ -1,11 +1,11 @@
 ---
-title: "Relier les activités humaines et les communautés benthiques en zone industrielle-portuaire : quel est l’état des écosystèmes ?"
+title: "From benthic communities to multiple drivers – An integrated multi-approach study of the Baie des Sept Îles"
 event: Québec-Océan Scientific Meeting
 event_url: http://www.quebec-ocean.ulaval.ca/en
 location: Québec, Canada
-summary: ""
+summary: "Ce poster présente différents travaux réalisés par les étudiants du laboratoire. [Prix de la meilleure affiche]"
 abstract: "The Baie des Sept Îles, part of the provincial program “Plan Nord”, hosts one of the largest deep water ports in North America. Many human activities (e.g. fisheries, ore transformation) occur in the bay, which can affect natural ecosystems and potentially modify services they provide. As coastal ecosystems rank among the most vulnerable ecosystems, benthic communities are an ideal marker of ecosystem status.
-Here, we aim at integrating information on both benthic communities and potential drivers of impacts to monitor the ecosystem status and to identify management actions. We present the results of a multi-approach study that a) characterized different ecological components in the bay, b) assessed the overall environmental status and c) detected effects of multiple drivers on benthic species. With this study, we provide an integrative framework to monitor the status of coastal benthic ecosystems and pave the way to inform managers on actionable policies in industrial harbour areas. [Best Poster Award]"
+Here, we aim at integrating information on both benthic communities and potential drivers of impacts to monitor the ecosystem status and to identify management actions. We present the results of a multi-approach study that a) characterized different ecological components in the bay, b) assessed the overall environmental status and c) detected effects of multiple drivers on benthic species. With this study, we provide an integrative framework to monitor the status of coastal benthic ecosystems and pave the way to inform managers on actionable policies in industrial harbour areas."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -17,7 +17,7 @@ all_day: true
 publishDate: ""
 
 authors: [eldre, Charlotte Carrier-Belleau, Filippo Ferrario, philarch]
-tags: [Sept-Îles, Benthos, Anthropogenic drivers, Characterization, Prediction, Indicators]
+tags: [Sept-Îles, Benthos, Pressions anthropiques, Caractérisation, Prédiction, Indicateurs, Mésocosmes]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -48,7 +48,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [PhD]
+projects: [Doctorat]
 
 # Enable math on this page?
 math: true

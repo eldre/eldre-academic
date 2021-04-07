@@ -8,7 +8,7 @@ authors: eldre
 superuser: true
 
 # Role/position
-role: Candidate to the PhD in Oceanography
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Oceanography
     institution: Université du Québec à Rimouski (Canada)
-    year: present
+    year: 2021
   - course: MSc in Environmental Sciences and Marine Ecology
     institution: Université Pierre et Marie Curie (France)
     year: 2015
@@ -74,6 +74,6 @@ email: "elliot.dreujou@uqar.ca"
 # - Visitors
 ---
 
-I am a junior researcher in Oceanography. My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.
+My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.
 
 I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval (Québec, Canada).

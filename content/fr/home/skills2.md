@@ -21,12 +21,6 @@ subtitle = ""
   description = "90%"
 
 [[feature]]
-  icon = "markdown"
-  icon_pack = "fab"
-  name = "Markdown"
-  description = "80%"
-
-[[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
@@ -39,15 +33,21 @@ subtitle = ""
   description = "20%"
 
 [[feature]]
-  icon = "html5"
+  icon = "markdown"
   icon_pack = "fab"
-  name = "HTML"
-  description = "20%"
+  name = "Markdown"
+  description = ""
+
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "fab"
+  name = "LaTeX"
+  description = ""
 
 [[feature]]
   icon = "css3-alt"
   icon_pack = "fab"
   name = "CSS"
-  description = "20%"
+  description = ""
 
 +++

@@ -8,7 +8,7 @@ authors: eldre
 superuser: true
 
 # Role/position
-role: Candidat au Doctorat en Océanographie
+role: Stagiaire postdoctoral
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bio.ulaval.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chercheur junior en Océanographie
+bio: Chercheur en océanographie
 
 interests:
 - Océanographie
@@ -32,7 +32,7 @@ education:
   courses:
   - course: Doctorat en Océanographie
     institution: Université du Québec à Rimouski (Canada)
-    year: actuellement
+    year: 2021
   - course: Master en Sciences de l'environnement et Écologie marine
     institution: Université Pierre et Marie Curie (France)
     year: 2015
@@ -74,6 +74,6 @@ email: "elliot.dreujou@uqar.ca"
 # - Visitors
 ---
 
-Je suis étudiant en océanographie. Mes principales activités de recherche consistent à étudier les écosystèmes marins, en particulier afin de savoir comment les écosystèmes benthiques (fond marins côtiers et profonds) et les activités humaines interagissent.
+Mes principales activités de recherche consistent à étudier les écosystèmes marins, en particulier afin de savoir comment les écosystèmes benthiques (fond marins côtiers et profonds) et les activités humaines interagissent.
 
 Je m'intéresse principalement à l'endofaune marine, mais aussi aux micro- et macroalgues. Je travaille actuellement au Laboratoire d'Écologie Benthique, dirigé par Philippe Archambault, à l'Université Laval (Québec, Canada).

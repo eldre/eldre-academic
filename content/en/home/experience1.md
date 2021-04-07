@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Professional Experience"
+title = "Professionnal Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,22 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant"
-  company = "Québec Center for Biodiversity Science"
-  company_url = "https://qcbs.ca"
-  location = "Québec (Canada)"
-  date_start = "2019-11-01"
-  date_end = "2019-12-06"
-  description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
-
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Québec Center for Biodiversity Science"
-  company_url = "https://qcbs.ca"
-  location = "Québec (Canada)"
-  date_start = "2018-09-01"
-  date_end = "2018-12-14"
-  description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
+  title = "Biologist"
+  company = "Fisheries and Oceans Canada"
+  company_url = "https://www.dfo-mpo.gc.ca/index-eng.html"
+  location = "Mont-Joli (Canada)"
+  date_start = "2021-01-04"
+  date_end = "2021-03-31"
+  description = "This contract was part of project SPERA. I reviewed the scientific literature to highlight which biological traits were the most used in the fonctional study of benthic ecosystems, and I produced a trait database for coastal benthic invertebrates found in the north coast of the Gulf of St. Lawrence."
 
 [[experience]]
   title = "Deputy Director"

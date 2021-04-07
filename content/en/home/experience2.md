@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 63  # Order that this section will appear.
 
-title = "Associative Experience"
+title = "Teaching Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,39 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Elected representative for internal communications"
-  company = "Québec-Océan Student Committee"
-  company_url = "http://www.quebec-ocean.ulaval.ca/en/index.php"
-  location = "Québec (Canada)"
-  date_start = "2018-11-01"
-  date_end = "2019-11-13"
-  description = ""
-
-[[experience]]
-  title = "Elected representative of PhD students"
-  company = "Québec-Océan Student Committee"
-  company_url = "http://www.quebec-ocean.ulaval.ca/en/index.php"
-  location = "Québec (Canada)"
-  date_start = "2017-11-01"
-  date_end = "2018-10-30"
-  description = ""
-
-[[experience]]
-  title = "Treasurer and coordinator"
-  company = "Université du Québec à Rimouski Student Group for Science Vulgarization"
-  company_url = "https://revus-uqar.weebly.com"
+  title = "Teaching Assistant"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
   location = "Rimouski (Canada)"
-  date_start = "2016-06-01"
-  date_end = "2017-05-31"
-  description = ""
+  date_start = "2021-03-24"
+  date_end = "2021-03-31"
+  description = "I taught the bases of multivariate statistics (similarity measures, ordination, classification) to graduate students, as part of the course Approches statistiques en océanographie (OCE75420-05)."
 
 [[experience]]
-  title = "Elected coordinator"
-  company = "Canadian Healthy Oceans Network Student Committee"
-  company_url = "https://chone2.ca"
-  location = "Rimouski (Canada)"
-  date_start = "2015-10-01"
-  date_end = "2020-09-30"
-  description = ""
+  title = "Teaching Assistant"
+  company = "Québec Center for Biodiversity Science"
+  company_url = "https://qcbs.ca"
+  location = "Québec (Canada)"
+  date_start = "2019-11-01"
+  date_end = "2019-12-06"
+  description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Québec Center for Biodiversity Science"
+  company_url = "https://qcbs.ca"
+  location = "Québec (Canada)"
+  date_start = "2018-09-01"
+  date_end = "2018-12-14"
+  description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
+
+[[experience]]
+  title = "Presenter"
+  company = "Québec-Océan"
+  company_url = "https://quebec-ocean.ulaval.ca"
+  location = "Québec (Canada)"
+  date_start = "2018-04-14"
+  date_end = "2018-04-14"
+  description = "I organized and presented a course on spatial analyses and geographic information systems (GIS) during the student retreat of Québec-Océan network, with the collaboration of inSileco."
 
 +++

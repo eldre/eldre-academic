@@ -18,22 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Chargé de cours"
-  company = "Centre de la Science de la Biodiversité du Québec"
-  company_url = "https://qcbs.ca"
-  location = "Québec (Canada)"
-  date_start = "2019-11-01"
-  date_end = "2019-12-06"
-  description = "J'ai enseigné comment utiliser le langage R pour l'analyses de données, la manipulation d'objets et la programmation pour des utilisateurs débutants et intermédiaires."
-
-[[experience]]
-  title = "Chargé de cours"
-  company = "Centre de la Science de la Biodiversité du Québec"
-  company_url = "https://qcbs.ca"
-  location = "Québec (Canada)"
-  date_start = "2018-09-01"
-  date_end = "2018-12-14"
-  description = "J'ai enseigné comment utiliser le langage R pour l'analyses de données, la manipulation d'objets et la programmation pour des utilisateurs débutants et intermédiaires."
+  title = "Biologiste"
+  company = "Pêches et Océans Canada"
+  company_url = "https://www.dfo-mpo.gc.ca/index-fra.html"
+  location = "Mont-Joli (Canada)"
+  date_start = "2021-01-04"
+  date_end = "2021-03-31"
+  description = "Ce contrat fait partie du projet SPERA. J'ai réalisé une revue de la littérature scientifique pour mettre en évidence les traits biologiques les plus utilisés dans l'étude fonctionnelle des écosystèmes benthiques, et j'ai compilé une base de données de traits sur les invertébrés benthiques côtiers de la côte nord du Golfe du Saint-Laurent."
 
 [[experience]]
   title = "Directeur Adjoint"

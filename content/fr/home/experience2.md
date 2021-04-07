@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 63  # Order that this section will appear.
 
-title = "Expérience associative"
+title = "Expériences d'enseignement"
 subtitle = ""
 
 # Date format for experience
@@ -18,39 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Représentant élu aux communications internes"
-  company = "Comité étudiant de Québec-Océan"
-  company_url = "http://www.quebec-ocean.ulaval.ca/fr/index.php"
-  location = "Québec (Canada)"
-  date_start = "2018-11-01"
-  date_end = "2019-11-13"
-  description = ""
-
-[[experience]]
-  title = "Représentant élu des étudiants au doctorat"
-  company = "Comité étudiant de Québec-Océan"
-  company_url = "http://www.quebec-ocean.ulaval.ca/fr/index.php"
-  location = "Québec (Canada)"
-  date_start = "2017-11-01"
-  date_end = "2018-10-30"
-  description = ""
-
-[[experience]]
-  title = "Trésorier et coordinateur"
-  company = "Regroupement étudiant de vulgarisation scientifique de l'Université du Québec à Rimouski"
-  company_url = "https://revus-uqar.weebly.com"
+  title = "Assistant d'enseignement"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
   location = "Rimouski (Canada)"
-  date_start = "2016-06-01"
-  date_end = "2017-05-31"
-  description = ""
+  date_start = "2021-03-24"
+  date_end = "2021-03-31"
+  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise dans le cadre du cours Approches statistiques en océanographie (OCE75420-05)."
 
 [[experience]]
-  title = "Coordinateur élu"
-  company = "Comité étudiant du Canadian Healthy Oceans Network"
-  company_url = "https://chone2.ca"
-  location = "Rimouski (Canada)"
-  date_start = "2015-10-01"
-  date_end = "2020-09-30"
-  description = ""
+  title = "Assistant d'enseignement"
+  company = "Centre de la Science de la Biodiversité du Québec"
+  company_url = "https://qcbs.ca"
+  location = "Québec (Canada)"
+  date_start = "2019-11-01"
+  date_end = "2019-12-06"
+  description = "J'ai enseigné comment utiliser le langage R pour l'analyses de données, la manipulation d'objets et la programmation pour des utilisateurs débutants et intermédiaires."
+
+[[experience]]
+  title = "Assistant d'enseignement"
+  company = "Centre de la Science de la Biodiversité du Québec"
+  company_url = "https://qcbs.ca"
+  location = "Québec (Canada)"
+  date_start = "2018-09-01"
+  date_end = "2018-12-14"
+  description = "J'ai enseigné comment utiliser le langage R pour l'analyses de données, la manipulation d'objets et la programmation pour des utilisateurs débutants et intermédiaires."
+
+[[experience]]
+  title = "Chargé de formation"
+  company = "Québec-Océan"
+  company_url = "https://quebec-ocean.ulaval.ca"
+  location = "Québec (Canada)"
+  date_start = "2018-04-14"
+  date_end = "2018-04-14"
+  description = "J'ai organisé et présenté une formation sur les analyses spatiales et les systèmes d'information géographique (SIG) durant la retraite étudiante du regroupement Québec-Océan, avec la collaboration d'inSileco."
 
 +++

@@ -1,6 +1,6 @@
 ---
 title: "PhD Project"
-summary: "Local evaluation of the links between multiple human activities and costal benthic ecosystems: characterization of cumulative influences and development of indicators of environmental status"
+summary: "Human activities influence on benthic ecosystems within a sub-Arctic industrial harbour area: calculation of ecological status indicators and prediction of the communities' structure"
 tags: [Benthos, Anthropogenic drivers, Characterization, Prediction, Indicators]
 date: "2015-09-01"
 

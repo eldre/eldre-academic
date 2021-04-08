@@ -1,6 +1,6 @@
 ---
 title: "Projet de Doctorat"
-summary: "Évaluation locale des liens entre les multiples activités humaines et les écosystèmes côtiers benthiques : caractérisation des influences cumulées et développement d'indicateurs de statut environnemental"
+summary: "Influence des activités humaines sur les écosystèmes benthiques d’une zone industrialo-portuaire subarctique : application d’indicateurs de statut écologique et prédiction de la structure des communautés"
 tags: [Benthos, Pressions anthropiques, Caractérisation, Prédiction, Indicateurs]
 date: "2015-09-01"
 

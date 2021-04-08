@@ -40,7 +40,7 @@ subtitle = ""
 
 [[feature]]
   icon = "file-alt"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "LaTeX"
   description = ""
 

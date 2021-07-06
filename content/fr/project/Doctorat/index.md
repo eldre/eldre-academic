@@ -1,6 +1,6 @@
 ---
-title: "Projet de Doctorat"
-summary: "Influence des activités humaines sur les écosystèmes benthiques d’une zone industrialo-portuaire subarctique : application d’indicateurs de statut écologique et prédiction de la structure des communautés"
+title: "Influence des activités humaines sur les écosystèmes benthiques d’une zone industrialo-portuaire subarctique"
+summary: ""
 tags: [Benthos, Pressions anthropiques, Caractérisation, Prédiction, Indicateurs]
 date: "2015-09-01"
 
@@ -31,6 +31,6 @@ Ce projet de Doctorat est divisé en trois chapitres :
 2. tester des indicateurs écologiques pour déterminer le statut environnemental en fonction des impacts cumulés
 3. évaluer quelle est l'influence des activités humaines sur ces écosystèmes
 
-Nous avons choisi la région de Sept-Îles comme cas d'étude, où de nombreuses activités humaines sont présentes selon différentes intensités (par ex : transport maritime international, pêcheries, eaux usées d'origines municipales ou industrielles).
+J'ai ciblé la région de Sept-Îles comme cas d'étude, où de nombreuses activités humaines sont présentes selon différentes intensités (par ex : transport maritime international, pêcheries, eaux usées d'origines municipales ou industrielles).
 
 Les données obtenues durant ce projet consistent en la composition taxinomique des communautés endofauniques benthiques, les paramètres abiotiques du sédiment (matière organique, granulométrie, concentration en métaux lourds) et la distribution spatiales des activités humaines considérées.

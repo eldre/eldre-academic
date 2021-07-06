@@ -14,8 +14,6 @@ role: Stagiaire postdoctoral
 organizations:
 - name: Université du Québec à Rimouski - Institut des Sciences de la Mer (UQAR/ISMER)
   url: "https://ismer.ca"
-- name: Université Laval
-  url: "https://www.bio.ulaval.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Chercheur en océanographie
@@ -31,7 +29,7 @@ interests:
 education:
   courses:
   - course: Doctorat en Océanographie
-    institution: Université du Québec à Rimouski (Canada)
+    institution: Université du Québec à Rimouski, Université Laval (Canada)
     year: 2021
   - course: Master en Sciences de l'environnement et Écologie marine
     institution: Université Pierre et Marie Curie (France)
@@ -65,7 +63,7 @@ social:
   link: https://www.linkedin.com/in/elliot-dreujou
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "elliot.dreujou@uqar.ca"
+email: "elliot_dreujou@uqar.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

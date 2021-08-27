@@ -1,7 +1,7 @@
 ---
 title: "Effects of environmental changes on the functioning of eelgrass meadows on Canadian coasts"
 summary: ""
-tags: [Meadows, Prediction, Functioning, Benthos]
+tags: [Eelgrass, Prediction, Functioning, Benthos]
 date: "2021-04-01"
 
 # Optional external URL for project (replaces project detail page).

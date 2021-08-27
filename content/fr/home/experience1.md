@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Stagiaire postdoctoral"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
+  location = "Rimouski (Canada)"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = "Ce contrat fait partie du programme de recherche de MEOPAR. Je me suis intéressé aux liens entre la biodiversité benthique, les traits biologiques et les paramètres de l'habitat au sein d'herbiers de zostères dans le Golfe du Saint-Laurent."
+
+[[experience]]
   title = "Biologiste"
   company = "Pêches et Océans Canada"
   company_url = "https://www.dfo-mpo.gc.ca/index-fra.html"

@@ -18,16 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Assistant d'enseignement"
+  title = "Chargé de cours"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
+  location = "Rimouski (Canada)"
+  date_start = "2021-09-01"
+  date_end = "2021-12-12"
+  description = "J'ai enseigné la phylogénie, les caractéristiques morphologiques et la biologie des invertébrés marins pour des étudiants au baccalauréat, dans le cadre du cours Invertébrés (BIO130-99)."
+
+[[experience]]
+  title = "Chargé de cours"
   company = "Université du Québec à Rimouski"
   company_url = "https://uqar.ca"
   location = "Rimouski (Canada)"
   date_start = "2021-03-24"
   date_end = "2021-03-31"
-  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise dans le cadre du cours Approches statistiques en océanographie (OCE75420-05)."
+  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise, dans le cadre du cours Approches statistiques en océanographie (OCE75420-05)."
 
 [[experience]]
-  title = "Assistant d'enseignement"
+  title = "Chargé de formation"
   company = "Centre de la Science de la Biodiversité du Québec"
   company_url = "https://qcbs.ca"
   location = "Québec (Canada)"
@@ -36,7 +45,7 @@ date_format = "Jan 2006"
   description = "J'ai enseigné comment utiliser le langage R pour l'analyses de données, la manipulation d'objets et la programmation pour des utilisateurs débutants et intermédiaires."
 
 [[experience]]
-  title = "Assistant d'enseignement"
+  title = "Chargé de formation"
   company = "Centre de la Science de la Biodiversité du Québec"
   company_url = "https://qcbs.ca"
   location = "Québec (Canada)"

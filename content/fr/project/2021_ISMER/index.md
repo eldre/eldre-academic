@@ -1,7 +1,7 @@
 ---
 title: "Effets des changements environnementaux sur le fonctionnement des herbiers de zostères des côtes canadiennes"
 summary: ""
-tags: [Herbiers, Prédiction, Fonctionnement, Benthos]
+tags: [Zostères, Prédiction, Fonctionnement, Benthos]
 date: "2021-04-01"
 
 # Optional external URL for project (replaces project detail page).

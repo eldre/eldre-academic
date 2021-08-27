@@ -22,12 +22,21 @@ date_format = "Jan 2006"
   company = "Université du Québec à Rimouski"
   company_url = "https://uqar.ca"
   location = "Rimouski (Canada)"
+  date_start = "2021-09-01"
+  date_end = "2021-12-12"
+  description = "I presented the phylogeny, morphological characteristics and biology of marine invertebrates to undergraduate students, as part of the course Invertébrés (BIO130-99)."
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
+  location = "Rimouski (Canada)"
   date_start = "2021-03-24"
   date_end = "2021-03-31"
   description = "I taught the bases of multivariate statistics (similarity measures, ordination, classification) to graduate students, as part of the course Approches statistiques en océanographie (OCE75420-05)."
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Training Manager"
   company = "Québec Center for Biodiversity Science"
   company_url = "https://qcbs.ca"
   location = "Québec (Canada)"
@@ -36,7 +45,7 @@ date_format = "Jan 2006"
   description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Training Manager"
   company = "Québec Center for Biodiversity Science"
   company_url = "https://qcbs.ca"
   location = "Québec (Canada)"
@@ -45,7 +54,7 @@ date_format = "Jan 2006"
   description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
 
 [[experience]]
-  title = "Presenter"
+  title = "Training Manager"
   company = "Québec-Océan"
   company_url = "https://quebec-ocean.ulaval.ca"
   location = "Québec (Canada)"

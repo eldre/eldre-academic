@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Doctorat en Océanographie
-    institution: Université du Québec à Rimouski, Université Laval (Canada)
+    institution: Université du Québec à Rimouski & Université Laval (Canada)
     year: 2021
   - course: Master en Sciences de l'environnement et Écologie marine
     institution: Université Pierre et Marie Curie (France)
@@ -74,4 +74,4 @@ email: "elliot_dreujou@uqar.ca"
 
 Mes principales activités de recherche consistent à étudier les écosystèmes marins, en particulier afin de savoir comment les écosystèmes benthiques (fond marins côtiers et profonds) et les activités humaines interagissent.
 
-Je m'intéresse principalement à l'endofaune marine, mais aussi aux micro- et macroalgues. Je travaille actuellement au Laboratoire d'Écologie Benthique, dirigé par Philippe Archambault, à l'Université Laval (Québec, Canada).
+Je m'intéresse principalement à l'endofaune marine, mais aussi aux micro- et macroalgues. Je travaille actuellement au Laboratoire d'Écogéochimie Côtière, dirigé par Fanny Noisette, à l'Institut des Sciences de la Mer (Rimouski, Canada).

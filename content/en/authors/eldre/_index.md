@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: PhD in Oceanography
-    institution: Université du Québec à Rimouski, Université Laval (Canada)
+    institution: Université du Québec à Rimouski & Université Laval (Canada)
     year: 2021
   - course: MSc in Environmental Sciences and Marine Ecology
     institution: Université Pierre et Marie Curie (France)
@@ -74,4 +74,4 @@ email: "elliot_dreujou@uqar.ca"
 
 My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.
 
-I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval (Québec, Canada).
+I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working at the Coastal Ecogeochemistry Laboratory, lead by Fanny Noisette, at Institut des Sciences de la Mer (Rimouski, Canada).

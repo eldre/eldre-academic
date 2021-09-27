@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = "I taught the bases of multivariate statistics (similarity measures, ordination, classification) to graduate students, as part of the course Approches statistiques en océanographie (OCE75420-05)."
 
 [[experience]]
-  title = "Training Manager"
+  title = "Lecturer"
   company = "Québec Center for Biodiversity Science"
   company_url = "https://qcbs.ca"
   location = "Québec (Canada)"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
 
 [[experience]]
-  title = "Training Manager"
+  title = "Lecturer"
   company = "Québec Center for Biodiversity Science"
   company_url = "https://qcbs.ca"
   location = "Québec (Canada)"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = "I taught how to use R language for data analysis, object manipulation and programmation for beginner and intermediate users."
 
 [[experience]]
-  title = "Training Manager"
+  title = "Lecturer"
   company = "Québec-Océan"
   company_url = "https://quebec-ocean.ulaval.ca"
   location = "Québec (Canada)"

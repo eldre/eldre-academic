@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Université de Sherbrooke"
+  organization_url = "https://www.usherbrooke.ca"
+  title = "Biodiversity modelling"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-08-16"
+  date_end = "2021-08-27"
+  description = ""
+
+[[item]]
   organization = "SMAART-Sentinel North"
   organization_url = "https://sentinellenord.ulaval.ca"
   title = "Data acquisition and treatment: from sensor to information"
@@ -64,8 +74,8 @@ date_format = "Jan 2006"
   title = "Bayesian statistics for ecologists"
   url = ""
   certificate_url = ""
-  date_start = "2017-08-01"
-  date_end = ""
+  date_start = "2017-08-14"
+  date_end = "2017-08-18"
   description = ""
 
 [[item]]

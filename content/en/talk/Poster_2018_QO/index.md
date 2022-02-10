@@ -1,7 +1,7 @@
 ---
 title: "Relier les activités humaines et les communautés benthiques en zone industrielle-portuaire : quel est l’état des écosystèmes ?"
 event: Québec-Océan Scientific Meeting
-event_url: http://www.quebec-ocean.ulaval.ca/en
+event_url: https://www.quebec-ocean.ulaval.ca/en
 location: Rivière-du-Loup, Canada
 summary: "This poster compiles works done during chapters 2 and 3 of my PhD thesis. (poster in French)"
 abstract: ""

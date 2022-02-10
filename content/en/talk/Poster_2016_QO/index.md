@@ -1,7 +1,7 @@
 ---
 title: "Study of indiviual and cumulative impacts of anthropogenic stressors on the ecosystems of Sept-Îles"
 event: Québec-Océan Scientific Meeting
-event_url: http://www.quebec-ocean.ulaval.ca/en
+event_url: https://www.quebec-ocean.ulaval.ca/en
 location: Québec, Canada
 summary: "This poster presents the main objectives of my PhD project. (poster in French)"
 abstract: ""

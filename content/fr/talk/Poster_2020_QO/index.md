@@ -1,7 +1,7 @@
 ---
 title: "From benthic communities to multiple drivers – An integrated multi-approach study of the Baie des Sept Îles"
-event: Québec-Océan Scientific Meeting
-event_url: http://www.quebec-ocean.ulaval.ca/en
+event: Réunion Scientifique Annuelle de Québec-Océan
+event_url: https://www.quebec-ocean.ulaval.ca/fr
 location: Québec, Canada
 summary: "Ce poster présente différents travaux réalisés par les étudiants du laboratoire. [Prix de la meilleure affiche]"
 abstract: "The Baie des Sept Îles, part of the provincial program “Plan Nord”, hosts one of the largest deep water ports in North America. Many human activities (e.g. fisheries, ore transformation) occur in the bay, which can affect natural ecosystems and potentially modify services they provide. As coastal ecosystems rank among the most vulnerable ecosystems, benthic communities are an ideal marker of ecosystem status.

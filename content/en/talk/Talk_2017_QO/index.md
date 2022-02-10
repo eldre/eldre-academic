@@ -1,7 +1,7 @@
 ---
 title: "Benthic communities and human activities: a peaceful cohabitation?"
 event: Québec-Océan Scientific Meeting
-event_url: http://www.quebec-ocean.ulaval.ca/en
+event_url: https://www.quebec-ocean.ulaval.ca/en
 location: Rivière-du-Loup, Canada
 summary: "Presentation of results gathered during the 2017 campaign at Sept-Îles."
 abstract: ""

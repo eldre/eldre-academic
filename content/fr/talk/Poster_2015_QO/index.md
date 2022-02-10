@@ -1,7 +1,7 @@
 ---
 title: "Analyse des coûts et des bénéfices de deux techniques d'échantillonnage utilisées pour étudier les communautés macrobenthiques arctiques"
 event: Réunion Scientifique Annuelle de Québec-Océan
-event_url: http://www.quebec-ocean.ulaval.ca/fr
+event_url: https://www.quebec-ocean.ulaval.ca/fr
 location: Québec, Canada
 summary: "Nous présentons les résultats d'une comparaison de différentes techniques utilisées pour étudier le macrobenthos : l'échantillonnage in-situ et l'identification photographique. Une analyse coût-bénéfice a été effectuée pour évaluer quantitativement l'efficacité de chaque méthode dans l'étude d'écosystèmes arctiques difficiles d'accès."
 abstract: ""

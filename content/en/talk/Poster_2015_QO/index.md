@@ -1,7 +1,7 @@
 ---
 title: "Cost-benefit analysis of two sampling methods for the study of arctic marine macrobenthos"
 event: Québec-Océan Scientific Meeting
-event_url: http://www.quebec-ocean.ulaval.ca/en
+event_url: https://www.quebec-ocean.ulaval.ca/en
 location: Québec, Canada
 summary: "We present here results from a comparative study of the different sampling techniques used to study macrobenthos: in-situ sampling and photographic identification. A cost-benefit analysis has been done to quantitatively evaluate efficiency of both methods to analyse remote-arctic ecosystems. (poster in French)"
 abstract: ""

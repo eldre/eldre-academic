@@ -1,7 +1,7 @@
 ---
 title: "Étude des impacts individuels et cumulés de stresseurs anthropiques sur les écosystèmes de la région de Sept-Îles"
 event: Réunion Scientifique Annuelle de Québec-Océan
-event_url: http://www.quebec-ocean.ulaval.ca/fr
+event_url: https://www.quebec-ocean.ulaval.ca/fr
 location: Québec, Canada
 summary: "Ce poster présente les principaux objectifs de ma thèse de Doctorat."
 abstract: ""

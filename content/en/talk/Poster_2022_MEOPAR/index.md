@@ -1,6 +1,6 @@
 ---
 title: "Linking functional traits and ecosystem functioning in a Canadian coastal eelgrass meadow"
-event: Environmental Observation, Prediction and Response Network Meeting
+event: Marine Environmental Observation, Prediction and Response Network Meeting
 event_url: https://meopar.ca
 location: Rimouski, Canada
 summary: "This poster presents results from the postdoctoral project and Marie-Pomme Presne Poissant's MSc projet. [Best Poster Award, 3rd place]"

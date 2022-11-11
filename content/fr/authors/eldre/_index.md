@@ -8,12 +8,12 @@ authors: eldre
 superuser: true
 
 # Role/position
-role: Stagiaire postdoctoral
+role: Chercheur et Coordonnateur de projet
 
 # Organizations/Affiliations
 organizations:
-- name: Université du Québec à Rimouski - Institut des Sciences de la Mer (UQAR/ISMER)
-  url: "https://ismer.ca"
+- name: Institut Nordique de Recherche en Environnement et en Santé au Travail
+  url: "https://inrest.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Chercheur en océanographie
@@ -63,7 +63,7 @@ social:
   link: https://www.linkedin.com/in/elliot-dreujou
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "elliot_dreujou@uqar.ca"
+email: "elliot@inrest.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +72,6 @@ email: "elliot_dreujou@uqar.ca"
 # - Visitors
 ---
 
-Mes principales activités de recherche consistent à étudier les écosystèmes marins, en particulier afin de savoir comment les écosystèmes benthiques (fond marins côtiers et profonds) et les activités humaines interagissent.
+Mes principaux travaux de recherche consistent à étudier les écosystèmes marins, en particulier afin de savoir comment les écosystèmes benthiques (fond marins côtiers et profonds) et les activités humaines interagissent. Je m'intéresse principalement à l'endofaune marine, mais aussi aux micro- et macroalgues.
 
-Je m'intéresse principalement à l'endofaune marine, mais aussi aux micro- et macroalgues. Je travaille actuellement au Laboratoire d'Écogéochimie Côtière, dirigé par Fanny Noisette, à l'Institut des Sciences de la Mer (Rimouski, Canada).
+En parallèle de mes projets scientifiques, j'anime régulièrement des émissions de vulgarisation et des interviews pour favoriser les dialogues science et société.

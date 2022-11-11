@@ -22,9 +22,18 @@ date_format = "Jan 2006"
   company = "Université du Québec à Rimouski"
   company_url = "https://uqar.ca"
   location = "Rimouski, Canada"
+  date_start = "2022-09-13"
+  date_end = "2022-12-20"
+  description = "J'ai enseigné les aspects fonctionnels de plusieurs écosystèmes côtiers pour des étudiants au baccalauréat, dans le cadre du cours Fonctionnement des écosystèmes marins (BIO37800)."
+
+[[experience]]
+  title = "Chargé de cours"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
+  location = "Rimouski, Canada"
   date_start = "2022-01-12"
   date_end = "2022-04-28"
-  description = "J'ai enseigné les bases physiques, chimiques et géologiques des environnements marins pour des étudiants au baccalauréat, dans le cadre du cours Introduction à l'océanographie (BIO170-21)."
+  description = "J'ai enseigné les bases physiques, chimiques et géologiques des environnements marins pour des étudiants au baccalauréat, dans le cadre du cours Introduction à l'océanographie (BIO17021)."
 
 [[experience]]
   title = "Chargé de cours"
@@ -33,7 +42,7 @@ date_format = "Jan 2006"
   location = "Rimouski, Canada"
   date_start = "2022-03-23"
   date_end = "2022-04-13"
-  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise, dans le cadre du cours Approches statistiques en océanographie (OCE75420-05)."
+  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise, dans le cadre du cours Approches statistiques en océanographie (OCE75420)."
 
 [[experience]]
   title = "Chargé de cours"
@@ -42,7 +51,7 @@ date_format = "Jan 2006"
   location = "Rimouski, Canada"
   date_start = "2021-09-01"
   date_end = "2021-12-12"
-  description = "J'ai enseigné la phylogénie, les caractéristiques morphologiques et la biologie des invertébrés marins pour des étudiants au baccalauréat, dans le cadre du cours Invertébrés (BIO130-99)."
+  description = "J'ai enseigné la phylogénie, les caractéristiques morphologiques et la biologie des invertébrés marins pour des étudiants au baccalauréat, dans le cadre du cours Invertébrés (BIO13099)."
 
 [[experience]]
   title = "Chargé de cours"
@@ -51,7 +60,7 @@ date_format = "Jan 2006"
   location = "Rimouski, Canada"
   date_start = "2021-03-24"
   date_end = "2021-03-31"
-  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise, dans le cadre du cours Approches statistiques en océanographie (OCE75420-05)."
+  description = "J'ai enseigné les bases des statistiques multivariées (mesures de similarité, ordination et classification) pour des étudiants à la maîtrise, dans le cadre du cours Approches statistiques en océanographie (OCE75420)."
 
 [[experience]]
   title = "Chargé de formation"

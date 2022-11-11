@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Researcher and Project leader"
+  company = "Northern Institute for Research in Environment and Occupational Health and Safety"
+  company_url = "https://inrest.ca"
+  location = "Sept-Îles, Canada"
+  date_start = "2021-10-03"
+  date_end = ""
+  description = "This position is tied to the Enviro-Action project, building a real-time monitoring platform of industrial-harbour ecosystems in Canada."
+
+[[experience]]
   title = "Postdoctoral fellow"
   company = "Université du Québec à Rimouski"
   company_url = "https://uqar.ca"
   location = "Rimouski, Canada"
   date_start = "2021-04-01"
-  date_end = ""
+  date_end = "2022-10-02"
   description = "This contract was part of MEOPAR's research program. I evaluated the links between benthic biodiversity, biological traits and habitat parameters within eelgrass meadows in the Gulf of St. Lawrence."
 
 [[experience]]

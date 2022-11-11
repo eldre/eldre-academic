@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.quebec-ocean.ulaval.ca/fr"
   location = "Québec, Canada"
   date_start = "2022-01-01"
-  date_end = ""
+  date_end = "2022-10-02"
   description = ""
 
 [[experience]]

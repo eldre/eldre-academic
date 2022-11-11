@@ -8,15 +8,15 @@ authors: eldre
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: Researcher and Project leader
 
 # Organizations/Affiliations
 organizations:
-- name: Université du Québec à Rimouski - Institut des Sciences de la Mer (UQAR/ISMER)
-  url: "https://ismer.ca"
+- name: Northern Institute for Research in Environment and Occupational Health and Safety
+  url: "https://inrest.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior researcher in Oceanography
+bio: Researcher in Oceanography
 
 interests:
 - Oceanography
@@ -63,7 +63,7 @@ social:
   link: https://www.linkedin.com/in/elliot-dreujou
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "elliot_dreujou@uqar.ca"
+email: "elliot@inrest.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +72,6 @@ email: "elliot_dreujou@uqar.ca"
 # - Visitors
 ---
 
-My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.
+My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact. I am interested in marine infauna, but also micro- and macroalgae.
 
-I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working at the Coastal Ecogeochemistry Laboratory, lead by Fanny Noisette, at Institut des Sciences de la Mer (Rimouski, Canada).
+Alongside my scientific activities, I am working to better connect science and society by animating dedicated shows and interviews.

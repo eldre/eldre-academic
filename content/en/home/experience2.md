@@ -22,9 +22,18 @@ date_format = "Jan 2006"
   company = "Université du Québec à Rimouski"
   company_url = "https://uqar.ca"
   location = "Rimouski, Canada"
+  date_start = "2022-09-13"
+  date_end = "2022-12-20"
+  description = "I taught the functional aspects of various coastal ecosystems to undergraduate students, as part of the course Fonctionnement des écosystèmes marins (BIO37800)."
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Université du Québec à Rimouski"
+  company_url = "https://uqar.ca"
+  location = "Rimouski, Canada"
   date_start = "2022-01-12"
   date_end = "2022-04-28"
-  description = "I taught the physical, chemical and geological bases of marine ecosystems to undergraduate students, as part of the course Introduction à l'océanographie (BIO170-21)."
+  description = "I taught the physical, chemical and geological bases of marine ecosystems to undergraduate students, as part of the course Introduction à l'océanographie (BIO17021)."
 
 [[experience]]
   title = "Teaching Assistant"
@@ -33,7 +42,7 @@ date_format = "Jan 2006"
   location = "Rimouski, Canada"
   date_start = "2022-03-23"
   date_end = "2022-04-13"
-  description = "I taught the bases of multivariate statistics (similarity measures, ordination, classification) to graduate students, as part of the course Approches statistiques en océanographie (OCE75420-05)."
+  description = "I taught the bases of multivariate statistics (similarity measures, ordination, classification) to graduate students, as part of the course Approches statistiques en océanographie (OCE75420)."
 
 [[experience]]
   title = "Teaching Assistant"
@@ -42,7 +51,7 @@ date_format = "Jan 2006"
   location = "Rimouski, Canada"
   date_start = "2021-09-01"
   date_end = "2021-12-12"
-  description = "I presented the phylogeny, morphological characteristics and biology of marine invertebrates to undergraduate students, as part of the course Invertébrés (BIO130-99)."
+  description = "I presented the phylogeny, morphological characteristics and biology of marine invertebrates to undergraduate students, as part of the course Invertébrés (BIO13099)."
 
 [[experience]]
   title = "Teaching Assistant"

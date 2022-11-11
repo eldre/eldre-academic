@@ -50,7 +50,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "elliot.dreujou@uqar.ca"
+email = "elliot@inrest.ca"
 phone = ""
 address = ""
 
@@ -87,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "48.45249"
-longitude = "-68.51035"
+latitude = "45.50861"
+longitude = "-73.56167"
 zoom = 17
 
 ############################

@@ -18,13 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Researcher and Project leader"
+  title = "Scientific director"
   company = "Northern Institute for Research in Environment and Occupational Health and Safety"
   company_url = "https://inrest.ca"
   location = "Sept-Îles, Canada"
-  date_start = "2021-10-03"
+  date_start = "2023-05-01"
   date_end = ""
-  description = "This position is tied to the Enviro-Action project, building a real-time monitoring platform of industrial-harbour ecosystems in Canada."
+  description = "Management of the scientific program of INREST and the Industrial Harbour Center of Expertise (CEIP)."
+
+[[experience]]
+  title = "Project leader"
+  company = "Northern Institute for Research in Environment and Occupational Health and Safety"
+  company_url = "https://inrest.ca"
+  location = "Sept-Îles, Canada"
+  date_start = "2022-10-03"
+  date_end = "2023-04-30"
+  description = "Management of the Enviro-Action project and the team, to build a real-time monitoring platform of industrial-harbour ecosystems in Canada."
 
 [[experience]]
   title = "Postdoctoral fellow"

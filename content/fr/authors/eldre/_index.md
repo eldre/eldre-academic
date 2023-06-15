@@ -8,7 +8,7 @@ authors: eldre
 superuser: true
 
 # Role/position
-role: Chercheur et Coordonnateur de projet
+role: Chercheur en écologie marine
 
 # Organizations/Affiliations
 organizations:

@@ -8,7 +8,7 @@ authors: eldre
 superuser: true
 
 # Role/position
-role: Researcher and Project leader
+role: Marine ecology researcher
 
 # Organizations/Affiliations
 organizations:

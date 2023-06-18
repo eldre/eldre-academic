@@ -1,0 +1,37 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  #contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+# fr:
+#   languageCode: fr-FR
+#   contentDir: content/fr
+#   title: 'Profil de recherche'
+#   params:
+#     description: ''
+#   menu:
+#     main:
+#       - name: 'Accueil'
+#         url: '#about'
+#         weight: 10
+#       - name: 'Posts'
+#         url: 'post/'
+#         weight: 20
+#       - name: 'Projets'
+#         url: 'project/'
+#         weight: 30
+#       - name: 'Publications'
+#         url: 'publication/'
+#         weight: 40
+#       - name: 'Présentations & Affiches'
+#         url: 'talk/'
+#         weight: 50
+#       - name: 'Contact'
+#         url: '#contact'
+#         weight: 60

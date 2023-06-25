@@ -3,7 +3,7 @@ title: "Caractérisation des écosystèmes intertidaux autour de Sept-Îles"
 event: "Biology Department Symposium, Université Laval"
 event_url: https://www.bio.ulaval.ca
 location: "Québec, Canada"
-summary: "Presentation of results gathered during the 2016 campaign at Sept-Îles. (presentation in French)"
+summary: "Presentation of results gathered during the 2016 campaign at Sept-Îles. [talk in French]"
 abstract: ""
 
 # Talk start and end times.

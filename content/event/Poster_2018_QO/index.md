@@ -3,7 +3,7 @@ title: "Relier les activités humaines et les communautés benthiques en zone in
 event: "Québec-Océan Scientific Meeting"
 event_url: https://www.quebec-ocean.ulaval.ca/en
 location: "Rivière-du-Loup, Canada"
-summary: "This poster compiles works done during chapters 2 and 3 of my PhD thesis. (poster in French)"
+summary: "This poster compiles works done during Chapters 2 and 3 of my PhD thesis. [poster in French]"
 abstract: ""
 
 # Talk start and end times.

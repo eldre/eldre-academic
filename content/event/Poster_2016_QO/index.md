@@ -3,7 +3,7 @@ title: "Study of indiviual and cumulative impacts of anthropogenic stressors on 
 event: "Québec-Océan Scientific Meeting"
 event_url: https://www.quebec-ocean.ulaval.ca/en
 location: "Québec, Canada"
-summary: "This poster presents the main objectives of my PhD project. (poster in French)"
+summary: "This poster presents the main objectives of my PhD project. [poster in French]"
 abstract: ""
 
 # Talk start and end times.
